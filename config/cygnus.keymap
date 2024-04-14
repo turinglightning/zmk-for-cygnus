@@ -142,19 +142,19 @@
 
         layer_3 {
             bindings = <
-&trans          &trans          &trans          &trans  &trans      &trans               &trans    &trans      &kp NUMBER_9  &kp NUMBER_0
-&trans             &trans             &trans             &trans     &trans  &trans          &kp LEFT_SHIFT  &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_GUI
-&trans             &trans             &trans             &trans     &trans      &trans          &kp F1          &kp F2            &kp F3        &kp F4
+&trans          &trans          &trans          &trans      &trans              &trans          &trans          &trans      &trans        &trans
+&trans          &trans          &trans          &trans      &trans              &trans          &trans          &trans      &trans        &trans
+&trans          &trans          &trans          &trans      &trans              &trans          &trans          &trans      &trans        &trans
               &trans                &trans                &trans                &trans            &trans             &trans
             >;
         };
 
         layer_4 {
             bindings = <
-&trans          &trans   &mmv MOVE_UP  &msc SCRL_DOWN  &trans  &trans          &trans  &trans  &trans  &trans
-&trans          &trans  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans  &trans          &trans  &trans  &trans  &trans
-&trans          &trans          &trans          &trans  &trans  &trans          &trans  &trans  &trans  &trans
-        &trans          &mkp LCLK  &mkp RCLK         &trans  &trans  &trans
+&trans        &trans      &trans       &trans      &trans              &trans        &trans  &trans  &trans  &trans
+&trans        &trans      &trans       &trans      &trans              &trans        &trans  &trans  &trans  &trans
+&trans        &trans      &trans       &trans      &trans              &trans        &trans  &trans  &trans  &trans
+        &trans          &trans  &trans                                 &trans  &trans  &trans
             >;
         };
 
