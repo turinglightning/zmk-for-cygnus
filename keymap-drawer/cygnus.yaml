@@ -30,12 +30,12 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: ;, h: '$$mdi:apple-keyboard-shift$$', s: ':'}
+  - {t: '$$mdi:apple-keyboard-caps$$', h: '1'}
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:apple-keyboard-caps$$', h: '1'}
-  - {t: '=', h: '2', s: +}
-  - {t: '-', s: _}
   - $$mdi:keyboard-space$$
+  - {t: '=', s: +}
+  - {t: '-', h: '2', s: _}
   '1':
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
@@ -67,9 +67,9 @@ layers:
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:apple-keyboard-shift$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -107,9 +107,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [3, 2]
   k: {t: '[', s: '{'}
