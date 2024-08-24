@@ -118,7 +118,7 @@
 &kp Q                          &kp W             &kp E                &kp R             &kp T         &kp Y                     &kp U              &kp I               &kp O           &kp  P
 &hm LCTRL A                    &kp  S            &kp D                &kp  F            &kp G         &kp H                     &kp  J             &kp  K              &kp  L          &hm RCTRL FSLH
 &kp Z                          &kp X             &kp C                &kp V             &kp B         &kp N                     &kp M              &kp COMMA           &kp DOT         &hm RSHFT SEMI
-                                   &kp BACKSPACE      &kp ENTER    &ltq 1 CAPS                 &ltq 2  EQUAL      &kp MINUS    &kp SPACE
+                               &ltq 1 CAPS    &kp BACKSPACE      &kp ENTER                   &kp SPACE        &kp EQUAL         &ltq 2  MINUS
             >;
         };
 
