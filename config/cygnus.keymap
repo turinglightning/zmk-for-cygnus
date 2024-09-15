@@ -69,8 +69,8 @@
      *       bindings = <&kp PIPE>;
       *key-positions = <14 15>;
     *    };
- */   };
-
+ *  };
+*/
     behaviors {
         hm: homerow_mods {
             compatible = "zmk,behavior-hold-tap";
