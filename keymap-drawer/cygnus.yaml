@@ -49,7 +49,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - $$mdi:brightness-5$$
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-shift$$
   - HOME
   - PG UP
   - {t: '`', s: '~'}
