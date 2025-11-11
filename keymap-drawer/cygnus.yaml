@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - {t: A, h: '$$mdi:apple-keyboard-control$$'}
-  - S
+  - {t: S, h: '$$mdi:apple-keyboard-shift$$'}
   - D
   - F
   - G
@@ -49,7 +49,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - $$mdi:brightness-5$$
-  - $$mdi:apple-keyboard-shift$$
+  - {t: '$$mdi:transfer$$', type: trans}
   - HOME
   - PG UP
   - {t: '`', s: '~'}
