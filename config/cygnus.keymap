@@ -116,7 +116,7 @@
         layer_0 {
             bindings = <
 &kp Q                          &kp W             &kp E                &kp R             &kp T         &kp Y                     &kp U              &kp I               &kp O           &kp  P
-&hm LCTRL A                    &kp  S            &kp D                &kp  F            &kp G         &kp H                     &kp  J             &kp  K              &kp  L          &hm RCTRL FSLH
+&hm LCTRL A                    &hm LSHFT S           &kp D                &kp  F            &kp G         &kp H                     &kp  J             &kp  K              &kp  L          &hm RCTRL FSLH
 &kp Z                          &kp X             &kp C                &kp V             &kp B         &kp N                     &kp M              &kp COMMA           &kp DOT         &hm RSHFT SEMI
                                &ltq 1 CAPS    &kp BACKSPACE      &kp ENTER                   &kp SPACE        &kp EQUAL         &ltq 2  MINUS
             >;
@@ -125,7 +125,7 @@
         layer_1{
             bindings = <
 &kp N1                &kp N2            &kp N3            &kp N4         &kp N5           &kp N6            &kp N7        &kp N8        &kp N9        &kp N0
-&kp C_BRI_UP            &kp LSHFT          &kp HOME          &kp PG_UP      &kp GRAVE        &kp LBKT          &trans        &kp UP       &trans         &kp BSLH
+&kp C_BRI_UP            &trans          &kp HOME          &kp PG_UP      &kp GRAVE        &kp LBKT          &trans        &kp UP       &trans         &kp BSLH
 &kp C_BRI_DN          &kp LGUI          &kp END           &kp PG_DN      &kp SQT          &kp RBKT          &kp LEFT        &kp DOWN        &kp RIGHT        &kp RSHFT
             &trans                &trans            &trans             &trans             &trans        &trans
             >;
